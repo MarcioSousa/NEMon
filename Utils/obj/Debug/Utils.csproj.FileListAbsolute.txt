@@ -1,0 +1,11 @@
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Utils.dll.config
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Utils.dll
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Utils.pdb
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Objeto.dll
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Objeto.pdb
+C:\Users\Protelt\source\repos\NEMon\Utils\bin\Debug\Objeto.dll.config
+C:\Users\Protelt\source\repos\NEMon\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\Protelt\source\repos\NEMon\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Protelt\source\repos\NEMon\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\Protelt\source\repos\NEMon\Utils\obj\Debug\Utils.dll
+C:\Users\Protelt\source\repos\NEMon\Utils\obj\Debug\Utils.pdb

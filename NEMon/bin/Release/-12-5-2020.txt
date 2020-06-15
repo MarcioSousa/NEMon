@@ -1,0 +1,3 @@
+
+Erro| 12/05/2020 23:48:24 | Não é possível gravar dados na conexão de transporte: Uma conexão estabelecida foi anulada pelo software no computador host.
+Erro| 12/05/2020 23:48:25 | Não é possível gravar dados na conexão de transporte: Uma conexão estabelecida foi anulada pelo software no computador host.

@@ -1,0 +1,6 @@
+C:\Users\Protelt\source\repos\NEMon\Data\bin\Release\Data.dll.config
+C:\Users\Protelt\source\repos\NEMon\Data\bin\Release\Data.dll
+C:\Users\Protelt\source\repos\NEMon\Data\bin\Release\Data.pdb
+C:\Users\Protelt\source\repos\NEMon\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\Users\Protelt\source\repos\NEMon\Data\obj\Release\Data.dll
+C:\Users\Protelt\source\repos\NEMon\Data\obj\Release\Data.pdb

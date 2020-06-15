@@ -1,0 +1,6 @@
+C:\Users\Protelt\source\repos\NEMon\Objeto\bin\Debug\Objeto.dll.config
+C:\Users\Protelt\source\repos\NEMon\Objeto\bin\Debug\Objeto.dll
+C:\Users\Protelt\source\repos\NEMon\Objeto\bin\Debug\Objeto.pdb
+C:\Users\Protelt\source\repos\NEMon\Objeto\obj\Debug\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Protelt\source\repos\NEMon\Objeto\obj\Debug\Objeto.dll
+C:\Users\Protelt\source\repos\NEMon\Objeto\obj\Debug\Objeto.pdb

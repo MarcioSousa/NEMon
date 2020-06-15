@@ -1,0 +1,27 @@
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\AlarmManager Client.exe.config
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\AlarmManager Client.exe
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\AlarmManager Client.pdb
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Banco.dll
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Data.dll
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Objeto.dll
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Utils.dll
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Banco.pdb
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Banco.dll.config
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Data.pdb
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Data.dll.config
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Objeto.pdb
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Objeto.dll.config
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Utils.pdb
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\bin\Debug\Utils.dll.config
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.csprojAssemblyReference.cache
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.Form1.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.frmAlerta.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.frmCadastroCliente.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.frmException.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.frmLogin.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager_Client.Properties.Resources.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.csproj.GenerateResource.cache
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.csproj.CoreCompileInputs.cache
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.csproj.CopyComplete
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.exe
+C:\Users\Protelt\source\repos\NEMon\AlarmManager Client\obj\Debug\AlarmManager Client.pdb

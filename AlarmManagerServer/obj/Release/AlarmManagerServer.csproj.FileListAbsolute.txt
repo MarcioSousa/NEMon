@@ -1,0 +1,4 @@
+C:\Users\Protelt\source\repos\NEMon\AlarmManagerServer\obj\Release\AlarmManagerServer.csprojAssemblyReference.cache
+C:\Users\Protelt\source\repos\NEMon\AlarmManagerServer\obj\Release\AlarmManagerServer.ProjectInstaller.resources
+C:\Users\Protelt\source\repos\NEMon\AlarmManagerServer\obj\Release\AlarmManagerServer.csproj.GenerateResource.cache
+C:\Users\Protelt\source\repos\NEMon\AlarmManagerServer\obj\Release\AlarmManagerServer.csproj.CoreCompileInputs.cache

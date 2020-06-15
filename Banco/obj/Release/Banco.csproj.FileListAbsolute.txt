@@ -1,0 +1,14 @@
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Banco.dll.config
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Banco.dll
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Banco.pdb
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Data.dll
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Objeto.dll
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Data.pdb
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Data.dll.config
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Objeto.pdb
+C:\Users\Protelt\source\repos\NEMon\Banco\bin\Release\Objeto.dll.config
+C:\Users\Protelt\source\repos\NEMon\Banco\obj\Release\Banco.csprojAssemblyReference.cache
+C:\Users\Protelt\source\repos\NEMon\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Protelt\source\repos\NEMon\Banco\obj\Release\Banco.csproj.CopyComplete
+C:\Users\Protelt\source\repos\NEMon\Banco\obj\Release\Banco.dll
+C:\Users\Protelt\source\repos\NEMon\Banco\obj\Release\Banco.pdb
